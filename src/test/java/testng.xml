@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite">
+  <test name="Default test">
+    <classes>
+   <!--   <class name="com.amazon.login"/> -->
+        <class name="com.amazon.GoogleTitleTest"/>
+        <class name="com.amazon.InvocatioCountTest"/>
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
