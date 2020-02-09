@@ -31,6 +31,7 @@ public class ApachePOIExcelRead {
 	private XSSFSheet sheet = null;
 	private XSSFRow row   =null;
 	private XSSFCell cell = null;
+	private XSSFCell cell2 = null;
 	
 	
 public ApachePOIExcelRead(String path) {
